@@ -1,0 +1,31 @@
+[+] Containers:
+ |- [+] Container: /Game/Levels/Bord
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:479CF0164B3EE669EA5B429CBB2E88D8 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:B67FC4274EB035AB951B67B76BEE7F5F BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_D8CB8A9E72E4394102_1763323169 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:479CF0164B3EE669EA5B429CBB2E88D8 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:B67FC4274EB035AB951B67B76BEE7F5F BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_D8CB8A9E72E4394102_1763323169 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Levels/Bord
+----------------------------------------------------------------------------------------------------------------
+Bord - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Bord Persistent Level
+ |- Always loaded Actor Count: 2 
+ |- Actor Path: /Game/Levels/Bord.Bord:PersistentLevel.Landscape_UAID_D8CB8A9E72E4394102_1763323169
+ |- Actor Package: /Game/__ExternalActors__/Levels/Bord/0/49/QJW73WIVCE7Q2K7DTIPFLU
+ |- Actor Path: /Game/Levels/Bord.Bord:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Levels/Bord/4/6B/GAZ4H6ZA7MZFWUP0IUDEA2
+
+----------------------------------------------------------------------------------------------------------------
+Bord - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
