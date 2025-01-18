@@ -25,6 +25,10 @@ Since I don't made a build of the game and it isn't a full version you need to d
 2. Open 'Bordspel.umap'
 3. Now press ALT+P to play the level. You can also press the play button at the top.
 
+## Controls
+
+The controls are pretty simple, press 'Space' to go to the next square and press 'Enter' to switch pawn.
+
 ## Contributing
 
 Pull requests are welcome. For other changes, please open an issue first to discuss what you would like to change.
